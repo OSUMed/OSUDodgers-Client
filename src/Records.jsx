@@ -3,15 +3,15 @@ import Axios from 'axios'
 
 
 function Records() {
-  
+
   const [player_name, setplayerName] = useState("");
   const [player_score, setplayerScore] = useState("");
   const [toprecordsList, setRecords] = useState([]);
 
 
   const submitScore = () => {
-    Axios.post('http://localhost:3001/api/post', {
-      player_name: player_name, 
+    Axios.post('https://osudodgers-server.herokuapp.com/api/post', {
+      player_name: player_name,
       player_score: player_score,
     }).then(() => {
       setRecords([...toprecordsList, {player_name: player_name, player_score: player_score}])
@@ -21,7 +21,7 @@ function Records() {
 
 
   useEffect(() => {
-    Axios.get("http://localhost:3001/api/get").then((response) => {
+    Axios.get("https://osudodgers-server.herokuapp.com/api/get").then((response) => {
       setRecords(response.data)
     })
   }
@@ -29,12 +29,12 @@ function Records() {
   return (
     <div className="App">
         <label>Player Name: </label>
-        <input 
+        <input
           onChange={(e) => {
             setplayerName(e.target.value)
           }} />
         <label>Player Score: </label>
-        <input 
+        <input
           onChange={(e) => {
             setplayerScore(e.target.value)
           }} />
@@ -48,7 +48,7 @@ function Records() {
 
       <div className="form">
 
-        
+
         <table>
           <thead>
             <tr>

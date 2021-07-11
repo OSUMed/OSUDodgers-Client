@@ -10,7 +10,7 @@ function Records() {
 
 
   const submitScore = () => {
-    Axios.post('https://osudodgers-server.herokuapp.com/api/post', {
+    Axios.post("https://osudodgers-server.herokuapp.com/api/post", {
       player_name: player_name,
       player_score: player_score,
     }).then(() => {

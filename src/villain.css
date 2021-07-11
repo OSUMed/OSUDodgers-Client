@@ -119,7 +119,7 @@ img.block {
 }
 
 @media(min-width: 1670px) {
-  div.game{
+  div.game{ 
     width: 14vw;
   }
 }

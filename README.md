@@ -1,8 +1,8 @@
 **Controls**: wasd 
-    w to go up
-    a to go left
-    s tp go down
-    d to go right
+w to go up
+a to go left
+s tp go down
+d to go right
 
 Heroku Link: https://osudodgersclient.herokuapp.com/
 

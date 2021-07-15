@@ -14,7 +14,7 @@ Picture Examples:
 
 ![image](https://user-images.githubusercontent.com/62990411/125715764-3f15fb6c-3643-4831-8bef-0f70e74c538c.png)
 
-![image](https://user-images.githubusercontent.com/62990411/125716916-76bba5fa-f63b-42a0-824d-48c0bd724c1d.png)
+![image](https://user-images.githubusercontent.com/62990411/125716960-a78de18f-45e0-407c-85ed-149f4a850806.png)
 
 
 # Getting Started with Create React App

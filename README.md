@@ -1,3 +1,5 @@
+Controls: WASD to go up, left, right, and down
+
 Heroku Link: https://osudodgersclient.herokuapp.com/
 
 Picture Example:

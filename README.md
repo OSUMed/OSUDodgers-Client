@@ -9,8 +9,8 @@
     d to go right
 
 Heroku Link: https://osudodgersclient.herokuapp.com/
-Server Code Github Link: https://github.com/OSUMed/OSUDodgers-Server
 
+Server Code Github Link: https://github.com/OSUMed/OSUDodgers-Server
 
 Picture Examples:
 

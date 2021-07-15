@@ -10,9 +10,12 @@
 
 Heroku Link: https://osudodgersclient.herokuapp.com/
 
-Picture Example:
+Picture Examples:
 
 ![image](https://user-images.githubusercontent.com/62990411/125715764-3f15fb6c-3643-4831-8bef-0f70e74c538c.png)
+
+![image](https://user-images.githubusercontent.com/62990411/125716783-0740f905-0772-4a5d-afe9-77e83c71f827.png)
+
 
 # Getting Started with Create React App
 

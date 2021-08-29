@@ -1,3 +1,24 @@
+**Controls**: wasd 
+
+    w to go up
+
+    a to go left
+
+    s tp go down
+
+    d to go right
+
+Heroku Link: https://osudodgersclient.herokuapp.com/
+
+Server Code Github Link: https://github.com/OSUMed/OSUDodgers-Server
+
+Picture Examples:
+
+![image](https://user-images.githubusercontent.com/62990411/125715764-3f15fb6c-3643-4831-8bef-0f70e74c538c.png)
+
+![image](https://user-images.githubusercontent.com/62990411/125716960-a78de18f-45e0-407c-85ed-149f4a850806.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

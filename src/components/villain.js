@@ -324,7 +324,7 @@ export default class Villain extends React.Component {
   }
 
   handleNoClick() {
-    alert('Are you scared?');
+    alert('Are you sure?');
   }
 
   render() {
